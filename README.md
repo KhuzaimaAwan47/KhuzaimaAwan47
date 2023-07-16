@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KhuzaimaAwan47
-- 👀 I’m interested in ...Game development
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...Andriod Game development
+- 👀 I’m interested in ...Flutter development
+- 💻 Already Leraned ...C++, Html, CSS, JavaScript, Artificial Intelligence
+- 🌱 I’m currently learning ...Flutter
+- 💞️ I’m looking to collaborate on ...Flutter development
 - 📫 How to reach me    khuzaimaawan9@gmail.com
 
 <!---
