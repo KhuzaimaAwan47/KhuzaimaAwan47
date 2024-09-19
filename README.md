@@ -33,7 +33,6 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,figma,cpp,vscode.&perline=5)](https://skillicons.dev)
-<br> </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47)](https://github.com/KhuzaimaAwan47/github-readme-stats)
+[![Khuzaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47)](https://github.com/KhuzaimaAwan47/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuzaimaAwan47&theme=dark)
 
