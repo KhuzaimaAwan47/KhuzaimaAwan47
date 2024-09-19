@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khuzaima Awan </h1>
 <!--<img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47eqqjx15brfp873wrtyqmb759vf7h0xg92icatl3u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Programmer Gif"> -->
 
-
+<!--![KhuzaimaAwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47&show_icons=true&theme=transparent) -->
 
 - 🔭 I’m currently working on Flutter
 
@@ -33,8 +33,7 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,figma,cpp,vscode.&perline=5)](https://skillicons.dev)
-
-<!--![KhuzaimaAwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47&show_icons=true&theme=transparent) -->
+<br> </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47)](https://github.com/KhuzaimaAwan47/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuzaimaAwan47&theme=dark)
 
