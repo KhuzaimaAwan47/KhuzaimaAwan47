@@ -34,7 +34,8 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,figma,cpp,vscode.&perline=5)](https://skillicons.dev)
 
-![KhuzaimaAwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47&show_icons=true&theme=transparent)
+<!--![KhuzaimaAwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47&show_icons=true&theme=transparent) -->
+![KhuzaimaAwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuzaimaAwan47&theme=dark)
 
