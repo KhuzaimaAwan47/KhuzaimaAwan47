@@ -36,5 +36,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuzaimaAwan47&theme=dark)
 
-[![Khuzaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47)](https://github.com/KhuzaimaAwan47/github-readme-stats)
+![KhuzaimaAwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47&show_icons=true&theme=transparent) 
+<!-- [![Khuzaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhuzaimaAwan47)](https://github.com/KhuzaimaAwan47/github-readme-stats)
 
