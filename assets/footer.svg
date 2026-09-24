@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0C4A6E"/>
+      <stop offset="45%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#67E8F9" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#footerBg)"/>
+
+  <path fill="url(#footerWave)" d="M0,0 L0,48 C150,72 300,22 450,50 C600,78 750,28 900,54 C1050,80 1120,36 1200,52 L1200,0 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,0 L0,48 C150,72 300,22 450,50 C600,78 750,28 900,54 C1050,80 1120,36 1200,52 L1200,0 Z;M0,0 L0,54 C150,30 300,70 450,42 C600,20 750,74 900,40 C1050,18 1120,62 1200,44 L1200,0 Z;M0,0 L0,48 C150,72 300,22 450,50 C600,78 750,28 900,54 C1050,80 1120,36 1200,52 L1200,0 Z"/>
+  </path>
+  <path fill="#22D3EE" opacity="0.22" d="M0,0 L0,30 C200,50 400,12 600,34 C800,54 1000,14 1200,32 L1200,0 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,0 L0,30 C200,50 400,12 600,34 C800,54 1000,14 1200,32 L1200,0 Z;M0,0 L0,36 C200,16 400,48 600,24 C800,10 1000,46 1200,28 L1200,0 Z;M0,0 L0,30 C200,50 400,12 600,34 C800,54 1000,14 1200,32 L1200,0 Z"/>
+  </path>
+
+  <rect x="380" y="88" width="440" height="2" rx="1" fill="url(#footerLine)" opacity="0.9"/>
+  <text x="600" y="122" text-anchor="middle" fill="#E2E8F0" font-family="Consolas, Menlo, monospace" font-size="14">Building mobile products end to end</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Muhammad Khuzaima - Full-Stack and Cross-Platform Mobile Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#0C4A6E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="waveFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <circle cx="1020" cy="64" r="96" fill="#22D3EE" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.22;0.14" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="220" r="72" fill="#0EA5E9" opacity="0.12">
+    <animate attributeName="opacity" values="0.12;0.2;0.12" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="80" y="76" width="64" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="80" y="138" fill="#F8FAFC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">Muhammad Khuzaima</text>
+  <text x="80" y="176" fill="#CBD5E1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="500">Full-Stack and Cross-Platform Mobile Developer</text>
+  <text x="80" y="212" fill="#67E8F9" font-family="Consolas, Menlo, monospace" font-size="14">React Native  |  Flutter  |  TypeScript  |  Laravel</text>
+
+  <path fill="url(#waveFill)" d="M0,228 C150,208 300,248 450,226 C600,204 750,244 900,220 C1050,198 1120,234 1200,218 L1200,280 L0,280 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,228 C150,208 300,248 450,226 C600,204 750,244 900,220 C1050,198 1120,234 1200,218 L1200,280 L0,280 Z;M0,234 C150,252 300,214 450,236 C600,254 750,208 900,238 C1050,252 1120,214 1200,228 L1200,280 L0,280 Z;M0,228 C150,208 300,248 450,226 C600,204 750,244 900,220 C1050,198 1120,234 1200,218 L1200,280 L0,280 Z"/>
+  </path>
+  <path fill="#22D3EE" opacity="0.28" d="M0,246 C180,232 360,260 540,244 C720,228 900,256 1080,240 C1140,234 1170,244 1200,238 L1200,280 L0,280 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,246 C180,232 360,260 540,244 C720,228 900,256 1080,240 C1140,234 1170,244 1200,238 L1200,280 L0,280 Z;M0,250 C180,264 360,236 540,252 C720,266 900,232 1080,250 C1140,256 1170,242 1200,248 L1200,280 L0,280 Z;M0,246 C180,232 360,260 540,244 C720,228 900,256 1080,240 C1140,234 1170,244 1200,238 L1200,280 L0,280 Z"/>
+  </path>
+</svg>
